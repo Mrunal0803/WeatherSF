@@ -1,7 +1,7 @@
 # Weather Forecast Website
 Welcome to the Weather Forecast website! This is a simple website created using ReactJS and OpenWeatherMap API to provide you with the latest weather conditions and forecasts for any location in the world. With this website, you can search for a location and view its current weather conditions, as well as a 5-day forecast.
 
-You can visit the deployed website at https://chirag2907.github.io/weather-forecast/
+You can visit the deployed website at 
 
 ## Features
 - Search for a location and view its current weather conditions and a 5-day forecast.
