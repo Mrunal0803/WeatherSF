@@ -10,7 +10,6 @@ You can visit the deployed website at https://chirag2907.github.io/weather-forec
 - ReactJS 
 - OpenWeatherMap API
 ## Usage
-To use this website, simply visit https://chirag2907.github.io/weather-forecast/ and enter the name of the location you want to search for. The website will display the current weather conditions and a 5-day forecast for the specified location.
 
 ## Screenshots
 Here are some screenshots of the Weather Forecast website:
